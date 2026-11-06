@@ -1,0 +1,7 @@
+This APK includes libxposed Service and Interface 102.0.0 from:
+https://github.com/libxposed/service
+
+These components are licensed under the Apache License, Version 2.0.
+See LICENSE-libxposed.txt in this directory for the license text.
+
+The libxposed API is used only for compilation and is not bundled.
